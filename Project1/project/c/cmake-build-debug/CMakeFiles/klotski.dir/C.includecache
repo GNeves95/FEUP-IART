@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/linuxlite/CLionProjects/klotski/block.h
+utils.h
+/home/linuxlite/CLionProjects/klotski/utils.h
+
+/home/linuxlite/CLionProjects/klotski/board.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+board.h
+/home/linuxlite/CLionProjects/klotski/board.h
+
+/home/linuxlite/CLionProjects/klotski/board.h
+block.h
+/home/linuxlite/CLionProjects/klotski/block.h
+vector.h
+/home/linuxlite/CLionProjects/klotski/vector.h
+
+/home/linuxlite/CLionProjects/klotski/utils.h
+
+/home/linuxlite/CLionProjects/klotski/vector.h
+utils.h
+/home/linuxlite/CLionProjects/klotski/utils.h
+

@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/klotski.dir/main.c.o CMakeFiles/klotski.dir/vector.c.o CMakeFiles/klotski.dir/block.c.o CMakeFiles/klotski.dir/board.c.o  -o klotski 

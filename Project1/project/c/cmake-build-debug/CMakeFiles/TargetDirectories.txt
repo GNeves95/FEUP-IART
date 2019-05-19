@@ -1,0 +1,3 @@
+/home/linuxlite/CLionProjects/klotski/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/linuxlite/CLionProjects/klotski/cmake-build-debug/CMakeFiles/klotski.dir
+/home/linuxlite/CLionProjects/klotski/cmake-build-debug/CMakeFiles/edit_cache.dir
